@@ -13,7 +13,7 @@
 
 ## About Me
 
-Data Scientist with 7 years of experience in the **energy sector**, with a growing specialization in **Machine Learning Engineering** and **AI systems** — bridging the gap between model development and production-ready deployment.
+Data Scientist with 7 years of experience, with a growing specialization in **Machine Learning Engineering** and **AI systems** — bridging the gap between model development and production-ready deployment.
 
 My focus:
 - **Data Science** — statistical modeling, forecasting, classification, EDA
